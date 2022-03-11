@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> HELLO GUYS !!! KAISE HO AAP  </h1>
+   <h1> India Jindabad  </h1>
 
   
 </form>
