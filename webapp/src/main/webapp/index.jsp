@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thats IT . now I know git,Jenkins,Maven and Its integration with Ansible,Kubernetes and Docker </h1>
+   <h1>Aarvi Pawar </h1>
 
   
 </form>
