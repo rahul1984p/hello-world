@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Added Ansible there  </h1>
+   <h1> New Features added with Ansible  </h1>
 
   
 </form>
