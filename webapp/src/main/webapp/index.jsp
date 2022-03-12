@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> New Features added with Ansible  </h1>
+   <h1> Now deploying on Kubernetes  </h1>
 
   
 </form>
